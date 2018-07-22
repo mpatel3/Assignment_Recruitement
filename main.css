@@ -1,0 +1,35 @@
+header h1 {
+    text-align: center;
+}
+
+.sort-enabled {
+    cursor: pointer;
+}
+
+.table-responsive {
+    padding-left: 0.98em;
+    margin-bottom: 0.55em;
+}
+
+.col-auto {
+    padding-left: 0 !important;
+}
+
+.sort-arrow {
+    font-size:0.6em;
+    display: none;
+}
+
+.show-more {
+    text-decoration: underline;
+    color:#138bbb;
+    cursor: pointer;
+}
+
+.modal-body td, .modal-body th {
+    padding: 5px;
+}
+
+.table-modal {
+    margin: 0 auto;
+}

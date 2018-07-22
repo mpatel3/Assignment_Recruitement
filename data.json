@@ -1,0 +1,420 @@
+[
+    {
+      "userID": 0,
+      "isActive": true,
+      "age": 34,
+      "eyeColor": "blue",
+      "firstName": "Eloise",
+      "lastName": "Workman",
+      "gender": "female",
+      "company": "COMTRACT",
+      "email": "eloiseworkman@comtract.com",
+      "phone": 9043203561,
+      "address": {
+        "flatNo": 808,
+        "street": "Vanderbilt Street",
+        "city": "Hebron",
+        "state": "Nebraska"
+      },
+      "LastLogin": "2015-01-23"
+    },
+    {
+      "userID": 1,
+      "isActive": false,
+      "age": 28,
+      "eyeColor": "green",
+      "firstName": "Christian",
+      "lastName": "Oneill",
+      "gender": "male",
+      "company": "FUELTON",
+      "email": "christianoneill@fuelton.com",
+      "phone": 9041336484,
+      "address": {
+        "flatNo": 716,
+        "street": "Hale Avenue",
+        "city": "Lloyd",
+        "state": "Massachusetts"
+      },
+      "LastLogin": "2017-04-12"
+    },
+    {
+      "userID": 2,
+      "isActive": false,
+      "age": 32,
+      "eyeColor": "brown",
+      "firstName": "Mann",
+      "lastName": "Booth",
+      "gender": "male",
+      "company": "GLASSTEP",
+      "email": "mannbooth@glasstep.com",
+      "phone": 9421729853,
+      "address": {
+        "flatNo": 550,
+        "street": "Baltic Street",
+        "city": "Brethren",
+        "state": "Nevada"
+      },
+      "LastLogin": "2016-03-20"
+    },
+    {
+      "userID": 3,
+      "isActive": true,
+      "age": 32,
+      "eyeColor": "brown",
+      "firstName": "Gay",
+      "lastName": "Jennings",
+      "gender": "male",
+      "company": "HOPELI",
+      "email": "gayjennings@hopeli.com",
+      "phone": 8772441416,
+      "address": {
+        "flatNo": 184,
+        "street": "Marconi Place",
+        "city": "Driftwood",
+        "state": "Mississippi"
+      },
+      "LastLogin": "2014-10-09"
+    },
+    {
+      "userID": 4,
+      "isActive": true,
+      "age": 24,
+      "eyeColor": "brown",
+      "firstName": "Pickett",
+      "lastName": "Freeman",
+      "gender": "male",
+      "company": "FUTURITY",
+      "email": "pickettfreeman@futurity.com",
+      "phone": 7447160668,
+      "address": {
+        "flatNo": 234,
+        "street": "Adams Street",
+        "city": "Cumminsville",
+        "state": "Kentucky"
+      },
+      "LastLogin": "2015-07-16"
+    },
+    {
+      "userID": 5,
+      "isActive": true,
+      "age": 21,
+      "eyeColor": "green",
+      "firstName": "Faye",
+      "lastName": "Cobb",
+      "gender": "female",
+      "company": "PATHWAYS",
+      "email": "fayecobb@pathways.com",
+      "phone": 7399133448,
+      "address": {
+        "flatNo": 561,
+        "street": "Ralph Avenue",
+        "city": "Moraida",
+        "state": "Pennsylvania"
+      },
+      "LastLogin": "2017-09-24"
+    },
+    {
+      "userID": 6,
+      "isActive": true,
+      "age": 27,
+      "eyeColor": "green",
+      "firstName": "Cole",
+      "lastName": "Richards",
+      "gender": "male",
+      "company": "SURETECH",
+      "email": "colerichards@suretech.com",
+      "phone": 8930702162,
+      "address": {
+        "flatNo": 824,
+        "street": "Cooper Street",
+        "city": "Dowling",
+        "state": "Wyoming"
+      },
+      "LastLogin": "2015-07-29"
+    },
+    {
+      "userID": 7,
+      "isActive": false,
+      "age": 28,
+      "eyeColor": "blue",
+      "firstName": "Estes",
+      "lastName": "Winters",
+      "gender": "male",
+      "company": "SULTRAX",
+      "email": "esteswinters@sultrax.com",
+      "phone": 7576265933,
+      "address": {
+        "flatNo": 123,
+        "street": "Division Avenue",
+        "city": "Cotopaxi",
+        "state": "Minnesota"
+      },
+      "LastLogin": "2017-09-04"
+    },
+    {
+      "userID": 8,
+      "isActive": true,
+      "age": 40,
+      "eyeColor": "green",
+      "firstName": "Kristin",
+      "lastName": "Hood",
+      "gender": "female",
+      "company": "AMTAP",
+      "email": "kristinhood@amtap.com",
+      "phone": 7892157926,
+      "address": {
+        "flatNo": 999,
+        "street": "Conklin Avenue",
+        "city": "Biddle",
+        "state": "Tennessee"
+      },
+      "LastLogin": "2016-12-07"
+    },
+    {
+      "userID": 9,
+      "isActive": false,
+      "age": 24,
+      "eyeColor": "brown",
+      "firstName": "Penelope",
+      "lastName": "Norman",
+      "gender": "female",
+      "company": "FUELWORKS",
+      "email": "penelopenorman@fuelworks.com",
+      "phone": 9222236842,
+      "address": {
+        "flatNo": 203,
+        "street": "John Street",
+        "city": "Drummond",
+        "state": "Montana"
+      },
+      "LastLogin": "2016-07-27"
+    },
+    {
+      "userID": 10,
+      "isActive": true,
+      "age": 23,
+      "eyeColor": "blue",
+      "firstName": "Mack",
+      "lastName": "Cotton",
+      "gender": "male",
+      "company": "ONTAGENE",
+      "email": "mackcotton@ontagene.com",
+      "phone": 9487872234,
+      "address": {
+        "flatNo": 887,
+        "street": "Chapel Street",
+        "city": "Blanford",
+        "state": "Rhode Island"
+      },
+      "LastLogin": "2014-05-13"
+    },
+    {
+      "userID": 11,
+      "isActive": true,
+      "age": 24,
+      "eyeColor": "brown",
+      "firstName": "Latasha",
+      "lastName": "Martinez",
+      "gender": "female",
+      "company": "BISBA",
+      "email": "latashamartinez@bisba.com",
+      "phone": 7636346640,
+      "address": {
+        "flatNo": 891,
+        "street": "Benson Avenue",
+        "city": "Wescosville",
+        "state": "Kansas"
+      },
+      "LastLogin": "2015-06-09"
+    },
+    {
+      "userID": 12,
+      "isActive": false,
+      "age": 37,
+      "eyeColor": "brown",
+      "firstName": "Riggs",
+      "lastName": "Weaver",
+      "gender": "male",
+      "company": "BEDDER",
+      "email": "riggsweaver@bedder.com",
+      "phone": 7615079003,
+      "address": {
+        "flatNo": 844,
+        "street": "Surf Avenue",
+        "city": "Jessie",
+        "state": "North Carolina"
+      },
+      "LastLogin": "2015-08-18"
+    },
+    {
+      "userID": 13,
+      "isActive": false,
+      "age": 33,
+      "eyeColor": "blue",
+      "firstName": "Lauren",
+      "lastName": "Sanders",
+      "gender": "female",
+      "company": "IMAGINART",
+      "email": "laurensanders@imaginart.com",
+      "phone": 9298651956,
+      "address": {
+        "flatNo": 244,
+        "street": "Jaffray Street",
+        "city": "Downsville",
+        "state": "American Samoa"
+      },
+      "LastLogin": "2015-04-02"
+    },
+    {
+      "userID": 14,
+      "isActive": true,
+      "age": 31,
+      "eyeColor": "brown",
+      "firstName": "Viola",
+      "lastName": "Harper",
+      "gender": "female",
+      "company": "ZOARERE",
+      "email": "violaharper@zoarere.com",
+      "phone": 9808826148,
+      "address": {
+        "flatNo": 515,
+        "street": "Boynton Place",
+        "city": "Conestoga",
+        "state": "Ohio"
+      },
+      "LastLogin": "2017-04-07"
+    },
+    {
+      "userID": 15,
+      "isActive": true,
+      "age": 37,
+      "eyeColor": "green",
+      "firstName": "Kristy",
+      "lastName": "Kelley",
+      "gender": "female",
+      "company": "HYDROCOM",
+      "email": "kristykelley@hydrocom.com",
+      "phone": 9391647641,
+      "address": {
+        "flatNo": 475,
+        "street": "Berry Street",
+        "city": "Sutton",
+        "state": "Idaho"
+      },
+      "LastLogin": "2014-11-09"
+    },
+    {
+      "userID": 16,
+      "isActive": true,
+      "age": 38,
+      "eyeColor": "green",
+      "firstName": "Santana",
+      "lastName": "Cabrera",
+      "gender": "male",
+      "company": "HONOTRON",
+      "email": "santanacabrera@honotron.com",
+      "phone": 8203499524,
+      "address": {
+        "flatNo": 680,
+        "street": "Clermont Avenue",
+        "city": "Dupuyer",
+        "state": "Guam"
+      },
+      "LastLogin": "2014-01-16"
+    },
+    {
+      "userID": 17,
+      "isActive": true,
+      "age": 31,
+      "eyeColor": "brown",
+      "firstName": "Stone",
+      "lastName": "Woodard",
+      "gender": "male",
+      "company": "ZIPAK",
+      "email": "stonewoodard@zipak.com",
+      "phone": 7504719884,
+      "address": {
+        "flatNo": 618,
+        "street": "Bush Street",
+        "city": "Defiance",
+        "state": "Montana"
+      },
+      "LastLogin": "2015-05-21"
+    },
+    {
+      "userID": 18,
+      "isActive": true,
+      "age": 28,
+      "eyeColor": "brown",
+      "firstName": "Villarreal",
+      "lastName": "Casey",
+      "gender": "male",
+      "company": "UXMOX",
+      "email": "villarrealcasey@uxmox.com",
+      "phone": 8799962329,
+      "address": {
+        "flatNo": 883,
+        "street": "Tapscott Avenue",
+        "city": "Caspar",
+        "state": "Nevada"
+      },
+      "LastLogin": "2014-10-02"
+    },
+    {
+      "userID": 19,
+      "isActive": true,
+      "age": 22,
+      "eyeColor": "brown",
+      "firstName": "Rose",
+      "lastName": "Beach",
+      "gender": "female",
+      "company": "ISOTERNIA",
+      "email": "rosebeach@isoternia.com",
+      "phone": 8574362078,
+      "address": {
+        "flatNo": 290,
+        "street": "Dearborn Court",
+        "city": "Hollymead",
+        "state": "Marshall Islands"
+      },
+      "LastLogin": "2014-02-22"
+    },
+    {
+      "userID": 20,
+      "isActive": false,
+      "age": 20,
+      "eyeColor": "brown",
+      "firstName": "Tammy",
+      "lastName": "Boyer",
+      "gender": "female",
+      "company": "TUBESYS",
+      "email": "tammyboyer@tubesys.com",
+      "phone": 7342917009,
+      "address": {
+        "flatNo": 845,
+        "street": "Bergen Court",
+        "city": "Grapeview",
+        "state": "Utah"
+      },
+      "LastLogin": "2017-04-10"
+    },
+    {
+      "userID": 21,
+      "isActive": true,
+      "age": 37,
+      "eyeColor": "green",
+      "firstName": "Fleming",
+      "lastName": "Mcclure",
+      "gender": "male",
+      "company": "MANTRIX",
+      "email": "flemingmcclure@mantrix.com",
+      "phone": 8875131204,
+      "address": {
+        "flatNo": 352,
+        "street": "Duryea Court",
+        "city": "Joppa",
+        "state": "Vermont"
+      },
+      "LastLogin": "2017-03-13"
+    }
+]
