@@ -480,6 +480,11 @@ ListenForGlobalFilters= (event) => {
  */
 
 columnLevelFiltering = (event, columNumber) => {
+    
+    // not require to run when tab is pressed.
+    if (event.key === 'Tab') {
+        return;
+    }
     const table = document.querySelector("#app_table");
     const searchBoxValue = table.querySelector("#column_"+(columNumber+1)).value.toUpperCase();
     const tr = table.getElementsByTagName("tbody")[0].getElementsByTagName("tr");

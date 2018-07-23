@@ -22,4 +22,5 @@
 
 
 **Note:**
-Column level filtering will going to work only for one column meaning if you type something in filter of column-1 and then you type something filter in column-2 then filter will not work properly. Currently working on the solution.
+1. Column level filtering will going to work only for one column meaning if you type something in filter of column-1 and then you type something filter in column-2 then filter will not work properly. Currently working on the solution.
+2. http-server might not get refershed content on browser if you hit refersh. So , when you change something in code make sure to hit refersh (`ctrl+shift+r`) few times to check your changes.
